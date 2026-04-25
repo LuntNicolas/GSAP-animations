@@ -7,6 +7,10 @@ export const links = [
         name: "Horizontal parallax Scroll",
         path: "/horizontalParallaxScroll",
         inspiration: ["https://camillemormal.com", "https://theshift.tokyo"]
+    }, {
+        name: "Infinity Grid Scroll",
+        path: "/infinityGridScroll",
+        inspiration: ["https://godly.website", "https://theshift.tokyo"]
     }
 ]
 
